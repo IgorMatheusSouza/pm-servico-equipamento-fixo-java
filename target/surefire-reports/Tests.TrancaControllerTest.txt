@@ -1,0 +1,24 @@
+-------------------------------------------------------------------------------
+Test set: Tests.TrancaControllerTest
+-------------------------------------------------------------------------------
+Tests run: 5, Failures: 0, Errors: 5, Skipped: 0, Time elapsed: 0.012 s <<< FAILURE! - in Tests.TrancaControllerTest
+Tests.TrancaControllerTest.fetchAllTrancasTest  Time elapsed: 0.004 s  <<< ERROR!
+java.lang.NullPointerException
+	at Tests.TrancaControllerTest.fetchAllTrancasTest(TrancaControllerTest.java:15)
+
+Tests.TrancaControllerTest.alterarTrancaTest  Time elapsed: 0 s  <<< ERROR!
+java.lang.NullPointerException
+	at Tests.TrancaControllerTest.alterarTrancaTest(TrancaControllerTest.java:42)
+
+Tests.TrancaControllerTest.deleteTrancaTest  Time elapsed: 0.001 s  <<< ERROR!
+java.lang.NullPointerException
+	at Tests.TrancaControllerTest.deleteTrancaTest(TrancaControllerTest.java:28)
+
+Tests.TrancaControllerTest.fetchTrancaTest  Time elapsed: 0 s  <<< ERROR!
+java.lang.NullPointerException
+	at Tests.TrancaControllerTest.fetchTrancaTest(TrancaControllerTest.java:21)
+
+Tests.TrancaControllerTest.adicionarTrancaTest  Time elapsed: 0.001 s  <<< ERROR!
+java.lang.NullPointerException
+	at Tests.TrancaControllerTest.adicionarTrancaTest(TrancaControllerTest.java:35)
+

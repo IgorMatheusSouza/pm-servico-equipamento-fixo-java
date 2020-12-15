@@ -1,0 +1,20 @@
+-------------------------------------------------------------------------------
+Test set: Tests.TotemControllerTest
+-------------------------------------------------------------------------------
+Tests run: 4, Failures: 0, Errors: 4, Skipped: 0, Time elapsed: 0.682 s <<< FAILURE! - in Tests.TotemControllerTest
+Tests.TotemControllerTest.fetchAllTotemsTest  Time elapsed: 0.02 s  <<< ERROR!
+java.lang.NullPointerException
+	at Tests.TotemControllerTest.fetchAllTotemsTest(TotemControllerTest.java:15)
+
+Tests.TotemControllerTest.fetchTotemTest  Time elapsed: 0.001 s  <<< ERROR!
+java.lang.NullPointerException
+	at Tests.TotemControllerTest.fetchTotemTest(TotemControllerTest.java:21)
+
+Tests.TotemControllerTest.deleteTotemTest  Time elapsed: 0.001 s  <<< ERROR!
+java.lang.NullPointerException
+	at Tests.TotemControllerTest.deleteTotemTest(TotemControllerTest.java:28)
+
+Tests.TotemControllerTest.adicionarTotemTest  Time elapsed: 0.001 s  <<< ERROR!
+java.lang.NullPointerException
+	at Tests.TotemControllerTest.adicionarTotemTest(TotemControllerTest.java:35)
+
